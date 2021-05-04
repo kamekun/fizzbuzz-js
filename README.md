@@ -2,11 +2,17 @@
 
 ## Requirements of the APP
 1-) Should print an error if the argument its not a number
+
 2-) Should print 1 if they recieve 1
+
 3-) Should print fizz if they recieve 3
+
 4-) Should print fizz if they recieve a multiple of 3
+
 5-) Should print buzz if they recieve 5
+
 6-) Should print buzz if they recieve a multiple of 5
+
 7-) Should print fizzbuzz if they recieve a multiple of 3 and 5
 
 ## About this
